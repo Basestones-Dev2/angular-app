@@ -1,11 +1,5 @@
 ﻿
 <p align="center">
-  <a href="https://github.com/SlimDogs/workout-organiser"><img src="https://github.com/SlimDogs/workout-organiser/blob/master/docs/assets/logo.png?raw=true" alt="Workout organiser" width="200px"></a>
-  <br>
-  <br>
-</p>
-
-<p align="center">
   <a href="#" target="_blank"><img src="https://travis-ci.org/SlimDogs/workout-organiser.svg?branch=master" alt="Latest CI build status" title="Latest CI build status"></a>
   <a href="https://codecov.io/gh/SlimDogs/workout-organiser"><img src="https://codecov.io/gh/SlimDogs/workout-organiser/branch/master/graph/badge.svg" alt="Codecov" /></a>
   <a href="https://greenkeeper.io" target="_blank"><img src="https://badges.greenkeeper.io/SlimDogs/workout-organiser.svg" alt="Greenkeeper" title="Greenkeeper"></a>
