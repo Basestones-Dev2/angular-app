@@ -1,4 +1,4 @@
-
+﻿
 <p align="center">
   <a href="https://github.com/SlimDogs/workout-organiser"><img src="https://github.com/SlimDogs/workout-organiser/blob/master/docs/assets/logo.png?raw=true" alt="Workout organiser" width="200px"></a>
   <br>
@@ -26,16 +26,7 @@ This is a Single Page Application (SEO friendly) which allows people to create t
 
 ## Features
 - Scrapping core exercises (Creating exercise database) ✅
-- ~~Registration & login pages (using Facebook login apis)~~ 🔨
-- ~~Workout plans list page~~ 🔨
-  - ~~Delete work plan~~ 🔨
-  - ~~Edit work plan~~ 🔨
-  - ~~Print work plan~~ 🔨
-  - ~~Download work plan~~ 🔨
-  - ~~Syncing with local storage~~ 🔨
-- ~~New workplan page~~ 🔨
-  - ~~Adding workout day~~ 🔨
-  - ~~Adding exercises to a day~~ 🔨
+
 
 ## Usage
 - Clone the repository
